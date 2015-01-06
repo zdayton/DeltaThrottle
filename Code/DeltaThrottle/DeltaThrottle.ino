@@ -56,6 +56,8 @@ void setup(){
         joySt.zAxis = 0;
 }
 
+//The delta kinematic math
+//You shouldn't need to change anything here.
 void getForwardKinematic()
 {
    //p1 is the bottom joint, p2 is the top right, p3 is the top left
