@@ -1,0 +1,9 @@
+Switches:
+	C&K Components RS-032G05A3-SM RT
+	Digi-Key Part Number	CKN10388CT-ND
+Hat:
+	E-Switch JS5208
+	Digi-Key Part Number	EG4561-ND
+Connector
+	JST Sales America Inc SM10B-GHS-TB(LF)(SN)
+	Digi-Key Part Number	455-1572-1-ND
